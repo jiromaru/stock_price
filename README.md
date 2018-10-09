@@ -34,4 +34,4 @@ Yahoo!ファイナンスのデータをBeautifulSoupを用いてWebスクレイ�
 上記プログラムとchromedriver.exeを同じディレクトリに配置し、get_stock.pyを実行する。
 
 ### 実行画面
-![実行画面](https://github.com/jiromaru/boj_data/blob/images/boj_images.png?raw=true)
+![実行画面](https://github.com/jiromaru/stock_price/blob/images/stock_images.png)
