@@ -10,9 +10,9 @@
 ③取得したデータをMySQLに格納  
 
 ## 環境
-OS:Windows10
-MySQL:8.0.11
-言語:python3
+OS:Windows10  
+MySQL:8.0.11  
+言語:python3  
 
 使用モジュール(標準モジュール以外)
 * BeautifulSoup
