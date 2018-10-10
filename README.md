@@ -14,6 +14,7 @@ Yahoo!ファイナンス上の株価データをWebスクレイピングによ�
 OS:Windows10  
 MySQL:8.0.11  
 言語:python3  
+その他:MySQLに"finance"というデータベースを事前に用意(今後は、なければ作成するように改修予定)
 
 使用モジュール(標準モジュール以外)
 * BeautifulSoup
@@ -21,7 +22,7 @@ MySQL:8.0.11
 * requests
 * selenium  
 
-その他必要なもの:クロームドライバ
+その他必要なもの:chromedriver
 
 ### 各プログラムの説明
 * get_stock.py  
